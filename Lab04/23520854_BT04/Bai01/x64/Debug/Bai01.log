@@ -1,0 +1,7 @@
+﻿  CDiem.cpp
+D:\UIT\Semester 2 Year 1\OOP\Submit\23520854_BT04\Bai01\CDiem.cpp(14,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\Submit\23520854_BT04\Bai01\CDiem.cpp(15,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\Submit\23520854_BT04\Bai01\CDiem.cpp(16,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  Bai01.vcxproj -> D:\UIT\Semester 2 Year 1\OOP\Submit\23520854_BT04\x64\Debug\Bai01.exe
