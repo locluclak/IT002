@@ -1,11 +1,5 @@
-﻿  CHinhCau.cpp
+﻿  CDiemKhongGian.cpp
+  CHinhCau.cpp
   Main.cpp
   Generating Code...
-CHinhCau.obj : error LNK2019: unresolved external symbol "public: __cdecl CDiemKhongGian::CDiemKhongGian(float,float,float)" (??0CDiemKhongGian@@QEAA@MMM@Z) referenced in function "public: __cdecl CHinhCau::CHinhCau(class CDiemKhongGian const &,float)" (??0CHinhCau@@QEAA@AEBVCDiemKhongGian@@M@Z)
-Main.obj : error LNK2001: unresolved external symbol "public: __cdecl CDiemKhongGian::CDiemKhongGian(float,float,float)" (??0CDiemKhongGian@@QEAA@MMM@Z)
-CHinhCau.obj : error LNK2019: unresolved external symbol "public: void __cdecl CDiemKhongGian::Setx(float)" (?Setx@CDiemKhongGian@@QEAAXM@Z) referenced in function "public: __cdecl CHinhCau::CHinhCau(float,float,float,float)" (??0CHinhCau@@QEAA@MMMM@Z)
-CHinhCau.obj : error LNK2019: unresolved external symbol "public: void __cdecl CDiemKhongGian::Sety(float)" (?Sety@CDiemKhongGian@@QEAAXM@Z) referenced in function "public: __cdecl CHinhCau::CHinhCau(float,float,float,float)" (??0CHinhCau@@QEAA@MMMM@Z)
-CHinhCau.obj : error LNK2019: unresolved external symbol "public: void __cdecl CDiemKhongGian::Setz(float)" (?Setz@CDiemKhongGian@@QEAAXM@Z) referenced in function "public: __cdecl CHinhCau::CHinhCau(float,float,float,float)" (??0CHinhCau@@QEAA@MMMM@Z)
-CHinhCau.obj : error LNK2019: unresolved external symbol "public: __cdecl CDiemKhongGian::~CDiemKhongGian(void)" (??1CDiemKhongGian@@QEAA@XZ) referenced in function "int `public: __cdecl CHinhCau::CHinhCau(class CDiemKhongGian const &,float)'::`1'::dtor$0" (?dtor$0@?0???0CHinhCau@@QEAA@AEBVCDiemKhongGian@@M@Z@4HA)
-Main.obj : error LNK2001: unresolved external symbol "public: __cdecl CDiemKhongGian::~CDiemKhongGian(void)" (??1CDiemKhongGian@@QEAA@XZ)
-C:\MyPC\GitHub\thOOP\Lab04\23520854_BT04\x64\Debug\Bai12.exe : fatal error LNK1120: 5 unresolved externals
+  Bai12.vcxproj -> D:\UIT\Semester 2 Year 1\OOP\OOPth\Lab04\23520854_BT04\x64\Debug\Bai12.exe

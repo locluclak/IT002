@@ -1,4 +1,5 @@
-#include "../Bai01/CDiem.h"
+//#include "../Bai01/CDiem.h"
+#include "CDiem.h"
 #include "CTamGiac.h"
 #include <iostream>
 using namespace std;

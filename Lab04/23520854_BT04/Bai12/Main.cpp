@@ -1,4 +1,4 @@
-#include "../Bai02/CDiemKhongGian.h"
+#include "CDiemKhongGian.h"
 #include "CHinhCau.h"
 
 int main()

@@ -18,12 +18,18 @@
     <ClInclude Include="CTamGiac.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CDiem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CTamGiac.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDiem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CDiemKhongGian.h" />
     <ClInclude Include="CHinhCau.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CDiemKhongGian.cpp" />
     <ClCompile Include="CHinhCau.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>

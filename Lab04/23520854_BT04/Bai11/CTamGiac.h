@@ -1,6 +1,6 @@
+#include "CDiem.h"
+//#include "../Bai01/CDiem.h"
 #pragma once
-#include "../Bai01/CDiem.h"
-
 class CTamGiac
 {
 private:

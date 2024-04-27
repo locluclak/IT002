@@ -1,10 +1,5 @@
-﻿  CTamGiac.cpp
+﻿  CDiem.cpp
+  CTamGiac.cpp
   Main.cpp
   Generating Code...
-CTamGiac.obj : error LNK2019: unresolved external symbol "public: __cdecl CDiem::CDiem(float,float)" (??0CDiem@@QEAA@MM@Z) referenced in function "public: __cdecl CTamGiac::CTamGiac(class CDiem const &,class CDiem const &,class CDiem const &)" (??0CTamGiac@@QEAA@AEBVCDiem@@00@Z)
-Main.obj : error LNK2001: unresolved external symbol "public: __cdecl CDiem::CDiem(float,float)" (??0CDiem@@QEAA@MM@Z)
-CTamGiac.obj : error LNK2019: unresolved external symbol "public: void __cdecl CDiem::Setx(float const &)" (?Setx@CDiem@@QEAAXAEBM@Z) referenced in function "public: __cdecl CTamGiac::CTamGiac(float,float,float,float,float,float)" (??0CTamGiac@@QEAA@MMMMMM@Z)
-CTamGiac.obj : error LNK2019: unresolved external symbol "public: void __cdecl CDiem::Sety(float const &)" (?Sety@CDiem@@QEAAXAEBM@Z) referenced in function "public: __cdecl CTamGiac::CTamGiac(float,float,float,float,float,float)" (??0CTamGiac@@QEAA@MMMMMM@Z)
-CTamGiac.obj : error LNK2019: unresolved external symbol "public: __cdecl CDiem::~CDiem(void)" (??1CDiem@@QEAA@XZ) referenced in function "int `public: __cdecl CTamGiac::CTamGiac(class CDiem const &,class CDiem const &,class CDiem const &)'::`1'::dtor$0" (?dtor$0@?0???0CTamGiac@@QEAA@AEBVCDiem@@00@Z@4HA)
-Main.obj : error LNK2001: unresolved external symbol "public: __cdecl CDiem::~CDiem(void)" (??1CDiem@@QEAA@XZ)
-C:\MyPC\GitHub\thOOP\Lab04\23520854_BT04\x64\Debug\Bai11.exe : fatal error LNK1120: 4 unresolved externals
+  Bai11.vcxproj -> D:\UIT\Semester 2 Year 1\OOP\OOPth\Lab04\23520854_BT04\x64\Debug\Bai11.exe

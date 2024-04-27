@@ -18,12 +18,18 @@
     <ClInclude Include="CHinhCau.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CDiemKhongGian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CHinhCau.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDiemKhongGian.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

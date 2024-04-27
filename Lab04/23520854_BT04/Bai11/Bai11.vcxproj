@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CDiem.h" />
     <ClInclude Include="CTamGiac.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CDiem.cpp" />
     <ClCompile Include="CTamGiac.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>

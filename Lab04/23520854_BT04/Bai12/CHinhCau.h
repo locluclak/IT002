@@ -1,3 +1,4 @@
+#include "CDiemKhongGian.h"
 #pragma once
 
 class CHinhCau
