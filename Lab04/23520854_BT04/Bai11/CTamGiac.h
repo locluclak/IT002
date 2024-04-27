@@ -1,5 +1,13 @@
 #pragma once
+#include "../Bai01/CDiem.h"
+
 class CTamGiac
 {
+private:
+	CDiem A, B, C;
+public:
+	CTamGiac(const CDiem&, const CDiem&, const CDiem&);
+	CTamGiac(float, float, float, float, float, float);
+	~CTamGiac();
 };
 

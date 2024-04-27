@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\Bai01\CDiem.h" />
     <ClInclude Include="CDuongTron.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\Bai01\CDiem.cpp" />
     <ClCompile Include="CDuongTron.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>

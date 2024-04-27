@@ -2,12 +2,13 @@
 class CDiem
 {
 private:
-	float dToan;
-	float dVan;
-	float dTB;
+	float x;
+	float y;
 public:
-	CDiem();
-	CDiem(int, int);
+	CDiem(float = 0, float = 0);
+	CDiem(const CDiem&);
+	void Setx(const float&);
+	void Sety(const float&);
 	~CDiem();
 };
 

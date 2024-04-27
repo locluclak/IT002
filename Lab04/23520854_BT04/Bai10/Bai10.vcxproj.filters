@@ -18,12 +18,18 @@
     <ClInclude Include="CDuongTron.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\Bai01\CDiem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CDuongTron.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Bai01\CDiem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

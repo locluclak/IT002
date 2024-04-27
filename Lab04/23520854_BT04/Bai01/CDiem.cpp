@@ -2,20 +2,30 @@
 #include "iostream"
 using namespace std;
 
-CDiem::CDiem()
+CDiem::CDiem(float a, float b)
 {
-	this->dToan = 0;
-	this->dVan = 0;
-	this->dTB = 0;
 	cout << "Goi PT khoi tao 1.\n";
+	x = a;
+	y = b;
 }
-CDiem::CDiem(int a, int b)
+
+CDiem::CDiem(const CDiem& A)
 {
-	this->dToan = a;
-	this->dVan = b;
-	this->dTB = (a + b) / 2;
 	cout << "Goi PT khoi tao 2.\n";
+	this->x = A.x;
+	this->y = A.y;
 }
+
+void CDiem::Setx(const float& a)
+{
+	this->x = a;
+}
+
+void CDiem::Sety(const float& b)
+{
+	this->y = b;
+}
+
 CDiem::~CDiem()
 {
 	cout << "Goi PT pha huy.\n";
