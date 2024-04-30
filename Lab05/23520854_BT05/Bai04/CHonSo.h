@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 #pragma once
 class CHonSo
 {
@@ -9,5 +11,10 @@ public:
 	CHonSo();
 	CHonSo(int, int, int);
 	~CHonSo();
+	friend ostream& operator<<(ostream&, const CHonSo&);
+	int GetNguyen() const;
+	int GetTu() const;
+	int GetMau() const;
+	CHonSo& operator=(const CHonSo&);
 };
 

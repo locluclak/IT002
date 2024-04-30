@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 #pragma once
 class CPhanSo
 {
@@ -8,5 +10,9 @@ public:
 	CPhanSo();
 	CPhanSo(int, int);
 	~CPhanSo();
+	friend ostream& operator<<(ostream&, const CPhanSo&);
+	int GetTu() const;
+	int GetMau() const;
+	CPhanSo& operator=(const CPhanSo&);
 };
 

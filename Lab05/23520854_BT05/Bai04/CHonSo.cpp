@@ -7,16 +7,42 @@ CHonSo::CHonSo()
 	phannguyen = 0;
 	tu = 0;
 	mau = 1;
-	cout << "Goi PT khoi tao 1.\n";
 }
 CHonSo::CHonSo(int a, int b, int c)
 {
 	phannguyen = a;
 	tu = b;
 	mau = c;
-	cout << "Goi PT khoi tao 2.\n";
 }
 CHonSo::~CHonSo()
 {
-	cout << "Goi PT pha huy.\n";
+}
+
+int CHonSo::GetTu() const
+{
+	return this->tu;
+}
+
+int CHonSo::GetMau() const
+{
+	return this->mau;
+}
+
+int CHonSo::GetNguyen() const
+{
+	return this->phannguyen;
+}
+
+ostream& operator<<(ostream& m, const CHonSo& a)
+{
+	m << a.GetNguyen() << '+' << a.GetTu() << '/' << a.GetMau();
+	return m;
+}
+
+CHonSo& CHonSo::operator=(const CHonSo& a)
+{
+	tu = a.GetTu();
+	phannguyen = a.GetNguyen();
+	mau = a.GetMau();
+	return *this;
 }

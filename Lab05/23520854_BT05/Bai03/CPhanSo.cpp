@@ -6,17 +6,37 @@ CPhanSo::CPhanSo()
 {
 	this->tu = 0;
 	this->mau = 1;
-	cout << "Goi PT khoi tao 1.\n";
 }
 
 CPhanSo::CPhanSo(int a, int b)
 {
 	this->tu = a;
 	this->mau = b;
-	cout << "Goi PT khoi tao 2.\n";
 }
 
 CPhanSo::~CPhanSo()
 {
-	cout << "Goi PT pha huy\n";
+}
+
+int CPhanSo::GetTu() const
+{
+	return this->tu;
+}
+
+int CPhanSo::GetMau() const
+{
+	return this->mau;
+}
+
+ostream& operator<<(ostream& m, const CPhanSo& a)
+{
+	m << a.GetTu() << '/' << a.GetMau();
+	return m;
+}
+
+CPhanSo& CPhanSo::operator=(const CPhanSo& a)
+{
+	tu = a.GetTu();
+	mau = a.GetMau();
+	return *this;
 }

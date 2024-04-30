@@ -1,4 +1,8 @@
 ﻿  CSoPhuc.cpp
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab05\23520854_BT05\Bai05\CSoPhuc.cpp(16,13): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab05\23520854_BT05\Bai05\CSoPhuc.cpp(21,13): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab05\23520854_BT05\Bai05\CSoPhuc.cpp(33,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab05\23520854_BT05\Bai05\CSoPhuc.cpp(34,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Main.cpp
   Generating Code...
-  Bai05.vcxproj -> D:\UIT\Semester 2 Year 1\OOP\OOPth\Lab04\23520854_BT04\x64\Debug\Bai05.exe
+  Bai05.vcxproj -> D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab05\23520854_BT05\x64\Debug\Bai05.exe
