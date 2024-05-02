@@ -5,20 +5,29 @@ using namespace std;
 
 CHinhCau::CHinhCau(const CDiemKhongGian& A, float bankinh)
 {
-	cout << "Goi phuong thuc khoi tao 1.\n";
 	this->O = A;
 	this->bankinh = bankinh;
 }
 
 CHinhCau::CHinhCau(float x, float y, float z, float bankinh)
 {
-	cout << "Goi phuong thuc khoi tao 2.\n";
 	this->O.Setx(x);
 	this->O.Sety(y);
 	this->O.Setz(z);
 }
 
 CHinhCau::~CHinhCau()
+{}
+
+ostream& operator<<(ostream& os, const CHinhCau& C)
 {
-	cout << "Goi PT pha huy.\n";
+	os << "Hinh cau tam " << C.O << " ban kinh " << C.bankinh;
+	return os;
+}
+
+CHinhCau& CHinhCau::operator=(const CHinhCau& C)
+{
+	this->O = C.O;
+	this->bankinh = C.bankinh;
+	return *this;
 }

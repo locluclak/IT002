@@ -5,20 +5,29 @@ using namespace std;
 
 CDuongTron::CDuongTron(const CDiem& O, float bankinh)
 {
-	cout << "Goi PT khoi tao 1.\n";
 	this->O = O;
 	this->bankinh = bankinh;
 }
 
 CDuongTron::CDuongTron(float x, float y, float bankinh)
 {
-	cout << "Goi PT khoi tao 2.\n";
-	this->O = x;
-	this->O = y;
+	this->O.Setx(x);
+	this->O.Sety(y);
 	this->bankinh = bankinh;
 }
 
 CDuongTron::~CDuongTron()
+{}
+
+ostream& operator<<(ostream& os, const CDuongTron& C)
 {
-	cout << "Goi PT pha huy.\n";
+	os << "Duong tron tam " << C.O << " ban kinh " << C.bankinh;
+	return os;
+}
+
+CDuongTron& CDuongTron::operator=(const CDuongTron& C)
+{
+	this->O = C.O;
+	this->bankinh = C.bankinh;
+	return *this;
 }

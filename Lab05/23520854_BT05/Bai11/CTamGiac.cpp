@@ -1,4 +1,3 @@
-//#include "../Bai01/CDiem.h"
 #include "CDiem.h"
 #include "CTamGiac.h"
 #include <iostream>
@@ -6,7 +5,6 @@ using namespace std;
 
 CTamGiac::CTamGiac(const CDiem& A, const CDiem& B, const CDiem& C)
 {
-	cout << "Goi PT khoi tao 1.\n";
 	this->A = A;
 	this->B = B;
 	this->C = C;
@@ -14,7 +12,6 @@ CTamGiac::CTamGiac(const CDiem& A, const CDiem& B, const CDiem& C)
 
 CTamGiac::CTamGiac(float a, float b, float c, float d, float e, float f)
 {
-	cout << "Goi PT khoi tao 2.\n";
 	A.Setx(a);
 	A.Sety(b);
 	B.Setx(c);
@@ -24,6 +21,18 @@ CTamGiac::CTamGiac(float a, float b, float c, float d, float e, float f)
 }
 
 CTamGiac::~CTamGiac()
+{}
+
+ostream& operator<<(ostream& os, const CTamGiac& A)
 {
-	cout << "Goi PT pha huy.\n";
+	os << "Tam giac co 3 dinh " << A.A << ", " << A.B << ", " << A.C;
+	return os;
+}
+
+CTamGiac& CTamGiac::operator=(const CTamGiac& A)
+{
+	this->A = A.A;
+	this->B = A.B;
+	this->C = A.C;
+	return *this;
 }

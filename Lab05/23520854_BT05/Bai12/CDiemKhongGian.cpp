@@ -7,12 +7,12 @@ CDiemKhongGian::CDiemKhongGian(float a, float b, float c)
 	this->x = a;
 	this->y = b;
 	this->z = c;
-	cout << "Goi PT khoi tao 1.\n";
+
 }
 
 CDiemKhongGian::CDiemKhongGian(const CDiemKhongGian& A)
 {
-	cout << "Goi PT khoi tao 2.\n";
+
 	this->x = A.x;
 	this->y = A.y;
 	this->z = A.z;
@@ -35,5 +35,32 @@ void CDiemKhongGian::Setz(float a)
 
 CDiemKhongGian::~CDiemKhongGian()
 {
-	cout << "Goi PT pha huy.\n";
+
+}
+
+float CDiemKhongGian::Getx() const
+{
+	return this->x;
+}
+
+float CDiemKhongGian::Gety() const
+{
+	return this->y;
+}
+float CDiemKhongGian::Getz() const
+{
+	return this->z;
+}
+
+ostream& operator<<(ostream& m, const CDiemKhongGian& a)
+{
+	m << "(" << a.Getx() << ", " << a.Gety() << ", " << a.Getz() << ")";
+	return m;
+}
+CDiemKhongGian& CDiemKhongGian::operator=(const CDiemKhongGian& a)
+{
+	this->x = a.Getx();
+	this->y = a.Gety();
+	this->z = a.Getz();
+	return *this;
 }

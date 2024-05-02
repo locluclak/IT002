@@ -4,14 +4,12 @@ using namespace std;
 
 CDiem::CDiem(float a, float b)
 {
-	cout << "Goi PT khoi tao 1.\n";
 	x = a;
 	y = b;
 }
 
 CDiem::CDiem(const CDiem& A)
 {
-	cout << "Goi PT khoi tao 2.\n";
 	this->x = A.x;
 	this->y = A.y;
 }
@@ -28,5 +26,26 @@ void CDiem::Sety(const float& b)
 
 CDiem::~CDiem()
 {
-	cout << "Goi PT pha huy.\n";
+
+}
+float CDiem::Getx() const
+{
+	return this->x;
+}
+
+float CDiem::Gety() const
+{
+	return this->y;
+}
+
+ostream& operator<<(ostream& m, const CDiem& a)
+{
+	m << "(" << a.Getx() << ", " << a.Gety() << ")";
+	return m;
+}
+CDiem& CDiem::operator=(const CDiem& a)
+{
+	this->x = a.Getx();
+	this->y = a.Gety();
+	return *this;
 }

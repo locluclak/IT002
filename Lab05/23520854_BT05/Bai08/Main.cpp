@@ -2,6 +2,8 @@
 
 int main()
 {
-	CDonThuc a, b(1, 1), c(0, 0.5), d(2);
+	CDonThuc a, b(1, 1);
+	a = b;
+	cout << a;
 	return 0;
 }

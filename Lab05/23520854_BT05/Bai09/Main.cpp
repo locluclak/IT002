@@ -2,6 +2,8 @@
 
 int main()
 {
-	CDuongThang a, b(2, 3), c(0);
+	CDuongThang a, b(2, 3);
+	a = b;
+	cout << a;
 	return 0;
 }

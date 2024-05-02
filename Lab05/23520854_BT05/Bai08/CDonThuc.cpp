@@ -4,13 +4,26 @@ using namespace std;
 
 CDonThuc::CDonThuc(int a, float b)
 {
-	cout << "Goi PT khoi tao.\n";
 	heso = a;
 	somu = b;
 }
 
 CDonThuc::~CDonThuc()
+{}
+
+ostream& operator<<(ostream& os, const CDonThuc& f)
 {
-	cout << "Goi PT pha huy.\n";
+	os << f.heso << "x^" << f.somu;
+	return os;
 }
+
+CDonThuc& CDonThuc::operator=(const CDonThuc& f)
+{
+	this->heso = f.heso;
+	this->somu = f.somu;
+	return *this;
+}
+
+
+
 
