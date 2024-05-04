@@ -19,5 +19,13 @@ public:
 	CPhanSo operator-(const CPhanSo&) const;
 	CPhanSo operator*(const CPhanSo&) const;
 	CPhanSo operator/(const CPhanSo&) const;
+	CPhanSo& operator+=(const CPhanSo&);
+	CPhanSo& operator-=(const CPhanSo&);
+	CPhanSo& operator*=(const CPhanSo&);
+	CPhanSo& operator/=(const CPhanSo&);
+	CPhanSo& operator++();
+	CPhanSo operator++(int);
+	CPhanSo& operator--();
+	CPhanSo operator--(int);
 };
 

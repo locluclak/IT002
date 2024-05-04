@@ -18,6 +18,13 @@ public:
 	CSoPhuc operator-(const CSoPhuc&) const;
 	CSoPhuc operator*(const CSoPhuc&) const;
 	CSoPhuc operator/(const CSoPhuc&) const;
-
+	CSoPhuc& operator+=(const CSoPhuc&);
+	CSoPhuc& operator-=(const CSoPhuc&);
+	CSoPhuc& operator*=(const CSoPhuc&);
+	CSoPhuc& operator/=(const CSoPhuc&);
+	CSoPhuc& operator++();
+	CSoPhuc& operator--();
+	CSoPhuc operator++(int);
+	CSoPhuc operator--(int);
 };
 

@@ -59,3 +59,48 @@ CSoPhuc CSoPhuc::operator/(const CSoPhuc& a) const
 	CSoPhuc temp = *this * CSoPhuc(a.Getthuc(), -a.Getao());
 	return CSoPhuc(temp.Getthuc() / div_, temp.Getao() / div_);
 }
+
+CSoPhuc& CSoPhuc::operator+=(const CSoPhuc& a)
+{
+	*this = *this + a;
+	return *this;
+}
+CSoPhuc& CSoPhuc::operator-=(const CSoPhuc& a)
+{
+	*this = *this - a;
+	return *this;
+}
+CSoPhuc& CSoPhuc::operator*=(const CSoPhuc& a)
+{
+	*this = *this * a;
+	return *this;
+}
+CSoPhuc& CSoPhuc::operator/=(const CSoPhuc& a)
+{
+	*this = *this / a;
+	return *this;
+}
+
+CSoPhuc& CSoPhuc::operator++()
+{
+	operator+=(CSoPhuc(1, 1));
+	return *this;
+}
+CSoPhuc& CSoPhuc::operator--()
+{
+	operator-=(CSoPhuc(1, 1));
+	return *this;
+}
+
+CSoPhuc CSoPhuc::operator++(int)
+{
+	CSoPhuc old = *this;
+	operator++();
+	return old;
+}
+CSoPhuc CSoPhuc::operator--(int)
+{
+	CSoPhuc old = *this;
+	operator--();
+	return old;
+}

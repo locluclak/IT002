@@ -66,3 +66,50 @@ CPhanSo CPhanSo::operator/(const CPhanSo& a) const
 {
 	return CPhanSo(tu * a.GetMau(), mau * a.GetTu());
 }
+
+CPhanSo& CPhanSo::operator+=(const CPhanSo& a)
+{
+	*this = *this + a;
+	return *this;
+}
+CPhanSo& CPhanSo::operator-=(const CPhanSo& a)
+{
+	*this = *this - a;
+	return *this;
+}
+CPhanSo& CPhanSo::operator*=(const CPhanSo& a)
+{
+	*this = *this * a;
+	return *this;
+}
+CPhanSo& CPhanSo::operator/=(const CPhanSo& a)
+{
+	*this = *this / a;
+	return *this;
+}
+
+CPhanSo& CPhanSo::operator++()
+{
+	operator+=(CPhanSo(1, 1));
+	return *this;
+}
+
+CPhanSo CPhanSo::operator++(int)
+{
+	CPhanSo old = *this;
+	operator++();
+	return old;
+}
+
+CPhanSo& CPhanSo::operator--()
+{
+	operator-=(CPhanSo(1, 1));
+	return *this;
+}
+
+CPhanSo CPhanSo::operator--(int)
+{
+	CPhanSo old = *this;
+	operator--();
+	return old;
+}
