@@ -14,5 +14,10 @@ public:
 	int Getthuc() const;
 	int Getao() const;
 	CSoPhuc& operator=(const CSoPhuc&);
+	CSoPhuc operator+(const CSoPhuc&) const;
+	CSoPhuc operator-(const CSoPhuc&) const;
+	CSoPhuc operator*(const CSoPhuc&) const;
+	CSoPhuc operator/(const CSoPhuc&) const;
+
 };
 

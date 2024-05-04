@@ -1,0 +1,11 @@
+﻿  CSoPhuc.cpp
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\Bai02\CSoPhuc.cpp(27,13): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\Bai02\CSoPhuc.cpp(32,13): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\Bai02\CSoPhuc.cpp(37,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\Bai02\CSoPhuc.cpp(38,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\Bai02\CSoPhuc.cpp(58,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\Bai02\CSoPhuc.cpp(59,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\Bai02\CSoPhuc.cpp(59,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  Bai02.vcxproj -> D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\x64\Debug\Bai02.exe

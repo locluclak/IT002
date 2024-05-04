@@ -15,5 +15,9 @@ public:
 	int GetTu() const;
 	int GetMau() const;
 	CPhanSo& operator=(const CPhanSo&);
+	CPhanSo operator+(const CPhanSo&) const;
+	CPhanSo operator-(const CPhanSo&) const;
+	CPhanSo operator*(const CPhanSo&) const;
+	CPhanSo operator/(const CPhanSo&) const;
 };
 

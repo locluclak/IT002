@@ -38,3 +38,24 @@ CSoPhuc& CSoPhuc::operator=(const CSoPhuc& a)
 	ao = a.Getao();
 	return *this;
 }
+
+CSoPhuc CSoPhuc::operator+(const CSoPhuc& a) const
+{
+	return CSoPhuc(thuc + a.Getthuc(), ao + a.Getao());
+}
+CSoPhuc CSoPhuc::operator-(const CSoPhuc& a) const
+{
+	return CSoPhuc(thuc - a.Getthuc(), ao - a.Getao());
+}
+CSoPhuc CSoPhuc::operator*(const CSoPhuc& a) const
+{
+	float phanthuc = thuc * a.Getthuc() - ao * a.Getao();
+	float phanao = ao * a.Getthuc() + thuc * a.Getao();
+	return CSoPhuc(phanthuc, phanao);
+}
+CSoPhuc CSoPhuc::operator/(const CSoPhuc& a) const
+{
+	float div_ = a.Getthuc() * a.Getthuc() + a.Getao() * a.Getao();
+	CSoPhuc temp = *this * CSoPhuc(a.Getthuc(), -a.Getao());
+	return CSoPhuc(temp.Getthuc() / div_, temp.Getao() / div_);
+}

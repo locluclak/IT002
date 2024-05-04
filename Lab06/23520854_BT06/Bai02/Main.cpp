@@ -4,8 +4,10 @@ using namespace std;
 
 int main()
 {
-	CSoPhuc A;
-	cin >> A;
-	cout << "So phuc: " << A;
+	CSoPhuc A(1, 2), B(1, 2);
+	cout << A + B << endl;
+	cout << A - B << endl;
+	cout << A * B << endl;
+	cout << A / B << endl;
 	return 0;
 }

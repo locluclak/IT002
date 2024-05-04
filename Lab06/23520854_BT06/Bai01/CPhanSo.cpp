@@ -44,3 +44,25 @@ CPhanSo& CPhanSo::operator=(const CPhanSo& a)
 	mau = a.GetMau();
 	return *this;
 }
+
+CPhanSo CPhanSo::operator+(const CPhanSo& a) const
+{
+	int qdmau = this->mau * a.GetMau();
+	int qdtu = this->tu * a.GetMau() + a.GetTu() * this->mau;
+	return CPhanSo(qdtu, qdmau);
+}
+
+CPhanSo CPhanSo::operator-(const CPhanSo& a) const
+{
+	return operator+(CPhanSo(-a.GetTu(), a.GetMau()));
+}
+
+CPhanSo CPhanSo::operator*(const CPhanSo& a) const
+{
+	return CPhanSo(tu * a.GetTu(), mau * a.GetMau());
+}
+
+CPhanSo CPhanSo::operator/(const CPhanSo& a) const
+{
+	return CPhanSo(tu * a.GetMau(), mau * a.GetTu());
+}
