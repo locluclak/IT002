@@ -1,2 +1,5 @@
 ﻿  CPhanSo.cpp
-  Bai01.vcxproj -> D:\UIT\Semester 2 Year 1\OOP\thOOP\thOOP\Lab06\23520854_BT06\x64\Debug\Bai01.exe
+  Main.cpp
+  Generating Code...
+  LINK : C:\MyPC\GitHub\thOOP\Lab06\23520854_BT06\x64\Debug\Bai01.exe not found or not built by the last incremental link; performing full link
+  Bai01.vcxproj -> C:\MyPC\GitHub\thOOP\Lab06\23520854_BT06\x64\Debug\Bai01.exe

@@ -10,4 +10,8 @@ private:
 public:
 	friend istream& operator>>(istream&, CDonThuc&);
 	friend ostream& operator<<(ostream&, CDonThuc);
+	CDonThuc operator*(const CDonThuc&);
+	CDonThuc operator/(const CDonThuc&);
+	CDonThuc& operator*=(const CDonThuc&);
+	CDonThuc& operator/=(const CDonThuc&);
 };
