@@ -38,6 +38,15 @@ float CDiem::Gety() const
 	return this->y;
 }
 
+istream& operator>>(istream& is, CDiem& a)
+{
+	cout << "Nhap hoanh do: ";
+	is >> a.x;
+	cout << "Nhap tung do: ";
+	is >> a.y;
+	return is;
+}
+
 ostream& operator<<(ostream& m, const CDiem& a)
 {
 	m << "(" << a.Getx() << ", " << a.Gety() << ")";

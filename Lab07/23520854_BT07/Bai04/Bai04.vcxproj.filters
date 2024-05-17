@@ -18,5 +18,37 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CDiemKhongGian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDuongThang.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CTamGiac.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Bai03\CDiem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHinhCau.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CDiemKhongGian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDuongThang.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CTamGiac.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Bai03\CDiem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHinhCau.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

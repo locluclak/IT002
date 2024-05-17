@@ -1,9 +1,7 @@
-#include <iostream>
-using namespace std;
-#include "CDiem.h"
+/*#include "CDiem.h"
 #include "CNgay.h"
 #include "CThoiGian.h"
-#include "CDonThuc.h"
+#include "CDonThuc.h"*/
 #include "CDiemKhongGian.h"
 #include "CDuongThang.h"
 #include "CTamGiac.h"
@@ -11,53 +9,52 @@ using namespace std;
 
 int main()
 {
-	CDiem A, B , C;
-	cout << "Nhap ba diem: ";
-	cin >> A >> B >> C;
-	cout << "Toan tu bang cua CDiem: " << A == B;
-	cout << "Toan tu khac cua CDiem: " << A != C;
+	/*CDiem A, B;
+	cout << "Nhap hai diem: \n";
+	cin >> A >> B;
+	cout << "Toan tu bang cua CDiem: " << boolalpha << (A == B) << '\n';
+	cout << "Toan tu khac cua CDiem: " << boolalpha << (A != B) << '\n';
 	
-	CNgay D, E, F;
-	cout << "Nhap ba ngay: ";
-	cin >> D >> E >> F;
-	cout << "Toan tu bang cua CNgay: " << D == E;
-	cout << "Toan tu khac cua CNgay: " << D != F;
+	CNgay C, D;
+	cout << "Nhap hai ngay: \n";
+	cin >> C >> D;
+	cout << "Toan tu bang cua CNgay: " << boolalpha << (C == D) << '\n';
+	cout << "Toan tu khac cua CNgay: " << boolalpha << (C != D) << '\n';
 
-	CThoiGian G, H, I;
-	cout << "Nhap ba thoi gian: ";
-	cin >> G >> H >> I;
-	cout << "Toan tu bang cua CThoiGian: " << G == H;
-	cout << "Toan tu khac cua CThoiGian: " << G != I;
+	CThoiGian E, F;
+	cout << "Nhap hai thoi gian: \n";
+	cin >> E >> F;
+	cout << "Toan tu bang cua CThoiGian: " << boolalpha << (E == F) << '\n';
+	cout << "Toan tu khac cua CThoiGian: " << boolalpha << (E != F) << '\n';
 
-	CDonThuc J, K, L;
-	cout << "Nhap ba don thuc: ";
-	cin >> J >> K >> L;
-	cout << "Toan tu bang cua CDonThuc: " << J == K;
-	cout << "Toan tu khac cua CDonThuc: " << J != L;
+	CDonThuc G, H;
+	cout << "Nhap hai don thuc: \n";
+	cin >> G >> H;
+	cout << "Toan tu bang cua CDonThuc: " << boolalpha << (G == H) << '\n';
+	cout << "Toan tu khac cua CDonThuc: " << boolalpha << (G != H) << '\n*/
 
-	CDiemKhongGian M, N, O;
-	cout << "Nhap ba diem khong gian: ";
-	cin >> M, N, O;
-	cout << "Toan tu bang cua CKhongGian: " << M == N;
-	cout << "Toan tu khac cua CKhongGian: " << M != O;
+	CDiemKhongGian I, J;
+	cout << "Nhap hai diem khong gian: \n";
+	cin >> I >> J;
+	cout << "Toan tu bang cua CKhongGian: " << boolalpha << (I == J) << '\n';
+	cout << "Toan tu khac cua CKhongGian: " << boolalpha << (I != J) << '\n';
 
-	CDuongThang P, Q, R;
-	cout << "Nhap ba duong thang: ";
-	cin >> P >> Q >> R;
-	cout << "Toan tu bang cua CDuongThang: " << P == Q;
-	cout << "Toan tu khac cua CDuongThang: " << P != R;
+	CDuongThang K, L;
+	cout << "Nhap hai duong thang: \n";
+	cin >> K >> L;
+	cout << "Toan tu bang cua CDuongThang: " << boolalpha << (K == L) << '\n';
+	cout << "Toan tu khac cua CDuongThang: " << boolalpha << (K != L) << '\n';
 
-	CTamGiac S, T, U;
-	cout << "Nhap ba tam giac: ";
-	cin >> S >> T >> U;
-	cout << "Toan tu bang cua CTamGiac: " << S == T;
-	cout << "Toan tu khac cua CTamGiac: " << S != U;
+	CTamGiac M, N;
+	cout << "Nhap hai tam giac: \n";
+	cin >> M >> N;
+	cout << "Toan tu bang cua CTamGiac: " << boolalpha << (M == N) << '\n';
+	cout << "Toan tu khac cua CTamGiac: " << boolalpha << (M != N) << '\n';
 
-	CHinhCau V, W, X;
-	cout << "Nhap ba hinh cau: ";
-	cin >> V >> W >> X;
-	cout << "Toan tu bang cua CHinhCau: " << V == W;
-	cout << "Toan tu khac cua CHinhCau: " << V != X;
-
+	CHinhCau O, P;
+	cout << "Nhap hai hinh cau: \n";
+	cin >> O >> P;
+	cout << "Toan tu bang cua CHinhCau: " << boolalpha << boolalpha << (O == P) << '\n';
+	cout << "Toan tu khac cua CHinhCau: " << boolalpha << boolalpha << (O != P) << '\n';
 	return 0;
 }
