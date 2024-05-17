@@ -27,10 +27,19 @@
     <ClCompile Include="CTamGiac.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Bai03\CDiem.cpp">
+    <ClCompile Include="CHinhCau.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CHinhCau.cpp">
+    <ClCompile Include="CNgay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CThoiGian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDonThuc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CDiem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -44,10 +53,19 @@
     <ClInclude Include="CTamGiac.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\Bai03\CDiem.h">
+    <ClInclude Include="CHinhCau.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CHinhCau.h">
+    <ClInclude Include="CNgay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CThoiGian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDonThuc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CDiem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

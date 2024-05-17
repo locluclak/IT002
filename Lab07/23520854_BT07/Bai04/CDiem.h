@@ -14,13 +14,10 @@ public:
 	float Getx() const;
 	float Gety() const;
 	~CDiem();
-	friend istream& operator >> (istream&, CDiem&);
+	friend istream& operator>>(istream&, CDiem&);
 	friend ostream& operator<<(ostream&, const CDiem&);
 	CDiem& operator=(const CDiem&);
-	bool operator<(const CDiem&) const;
-	bool operator>(const CDiem&) const;
-	bool operator<=(const CDiem&) const;
-	bool operator>=(const CDiem&) const;
 	bool operator==(const CDiem&) const;
 	bool operator!=(const CDiem&) const;
 };
+

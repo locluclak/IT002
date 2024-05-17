@@ -1,5 +1,5 @@
 #pragma once
-#include "../Bai03/CDiem.h"
+#include "CDiem.h"
 #include <iostream>
 using namespace std;
 

@@ -127,19 +127,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Bai03\CDiem.cpp" />
+    <ClCompile Include="CDiem.cpp" />
     <ClCompile Include="CDiemKhongGian.cpp" />
+    <ClCompile Include="CDonThuc.cpp" />
     <ClCompile Include="CDuongThang.cpp" />
     <ClCompile Include="CHinhCau.cpp" />
+    <ClCompile Include="CNgay.cpp" />
     <ClCompile Include="CTamGiac.cpp" />
+    <ClCompile Include="CThoiGian.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Bai03\CDiem.h" />
+    <ClInclude Include="CDiem.h" />
     <ClInclude Include="CDiemKhongGian.h" />
+    <ClInclude Include="CDonThuc.h" />
     <ClInclude Include="CDuongThang.h" />
     <ClInclude Include="CHinhCau.h" />
+    <ClInclude Include="CNgay.h" />
     <ClInclude Include="CTamGiac.h" />
+    <ClInclude Include="CThoiGian.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

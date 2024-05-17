@@ -1,7 +1,7 @@
-/*#include "CDiem.h"
+#include "CDiem.h"
 #include "CNgay.h"
 #include "CThoiGian.h"
-#include "CDonThuc.h"*/
+#include "CDonThuc.h"
 #include "CDiemKhongGian.h"
 #include "CDuongThang.h"
 #include "CTamGiac.h"
@@ -9,7 +9,7 @@
 
 int main()
 {
-	/*CDiem A, B;
+	CDiem A, B;
 	cout << "Nhap hai diem: \n";
 	cin >> A >> B;
 	cout << "Toan tu bang cua CDiem: " << boolalpha << (A == B) << '\n';
@@ -31,7 +31,7 @@ int main()
 	cout << "Nhap hai don thuc: \n";
 	cin >> G >> H;
 	cout << "Toan tu bang cua CDonThuc: " << boolalpha << (G == H) << '\n';
-	cout << "Toan tu khac cua CDonThuc: " << boolalpha << (G != H) << '\n*/
+	cout << "Toan tu khac cua CDonThuc: " << boolalpha << (G != H) << '\n';
 
 	CDiemKhongGian I, J;
 	cout << "Nhap hai diem khong gian: \n";
