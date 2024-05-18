@@ -1,0 +1,563 @@
+﻿  CDienTro.cpp
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,28): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,55): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,61): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,29): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,56): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,62): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CDienTro.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.cpp(6,2): error C2146: syntax error: missing ';' before identifier 'cout'
+  CMachDien.cpp
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,28): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,55): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,61): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,29): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,56): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,62): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(4,24): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(7,9): error C3646: 'MaSo': unknown override specifier
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(7,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,51): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,57): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachDien.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachDien.cpp(11,19): error C2440: '=': cannot convert from 'CMachNoiTiep *' to 'CMachDien *'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachDien.cpp(11,19):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachDien.cpp(16,19): error C2440: '=': cannot convert from 'CMachSongSong *' to 'CMachDien *'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachDien.cpp(16,19):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachDien.cpp(21,19): error C2440: '=': cannot convert from 'CDienTro *' to 'CMachDien *'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachDien.cpp(21,19):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+  CMachNoiTiep.cpp
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,28): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,55): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,61): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,29): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,56): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,62): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(4,24): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(7,9): error C3646: 'MaSo': unknown override specifier
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(7,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,51): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,57): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachNoiTiep.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.cpp(7,9): error C2248: 'CMachNoiTiep::n': cannot access private member declared in class 'CMachNoiTiep'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(7,6):
+  see declaration of 'CMachNoiTiep::n'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,7):
+  see declaration of 'CMachNoiTiep'
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.cpp(8,23): error C2248: 'CMachNoiTiep::n': cannot access private member declared in class 'CMachNoiTiep'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(7,6):
+  see declaration of 'CMachNoiTiep::n'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,7):
+  see declaration of 'CMachNoiTiep'
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.cpp(11,12): error C2039: 'MachThanhPhan': is not a member of 'CMachNoiTiep'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,7):
+  see declaration of 'CMachNoiTiep'
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.cpp(20,23): error C2248: 'CMachNoiTiep::n': cannot access private member declared in class 'CMachNoiTiep'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(7,6):
+  see declaration of 'CMachNoiTiep::n'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,7):
+  see declaration of 'CMachNoiTiep'
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.cpp(23,12): error C2039: 'MachThanhPhan': is not a member of 'CMachNoiTiep'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,7):
+  see declaration of 'CMachNoiTiep'
+  
+  CMachSongSong.cpp
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,28): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,55): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,61): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,29): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,56): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,62): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(4,24): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(7,9): error C3646: 'MaSo': unknown override specifier
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(7,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,51): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,57): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'CMachSongSong.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.cpp(7,9): error C2248: 'CMachSongSong::n': cannot access private member declared in class 'CMachSongSong'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(7,6):
+  see declaration of 'CMachSongSong::n'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,7):
+  see declaration of 'CMachSongSong'
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.cpp(8,23): error C2248: 'CMachSongSong::n': cannot access private member declared in class 'CMachSongSong'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(7,6):
+  see declaration of 'CMachSongSong::n'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,7):
+  see declaration of 'CMachSongSong'
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.cpp(11,12): error C2039: 'MachThanhPhan': is not a member of 'CMachSongSong'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,7):
+  see declaration of 'CMachSongSong'
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.cpp(20,23): error C2248: 'CMachSongSong::n': cannot access private member declared in class 'CMachSongSong'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(7,6):
+  see declaration of 'CMachSongSong::n'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,7):
+  see declaration of 'CMachSongSong'
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.cpp(23,12): error C2039: 'MachThanhPhan': is not a member of 'CMachSongSong'
+  C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,7):
+  see declaration of 'CMachSongSong'
+  
+  Source.cpp
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(4,28): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(10,55): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachNoiTiep.h(11,61): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(4,29): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(8,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(10,56): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CMachSongSong.h(11,62): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(4,24): error C2504: 'CMachDien': base class undefined
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(7,9): error C3646: 'MaSo': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(7,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,9): error C2433: 'istream': 'friend' not permitted on data declarations
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(10,51): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,16): error C2143: syntax error: missing ';' before '&'
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,9): error C2433: 'ostream': 'friend' not permitted on data declarations
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai03\CDienTro.h(11,57): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Source.cpp')
+  
+  Generating Code...
