@@ -8,5 +8,7 @@ private:
 public: 
 	void Nhap();
 	void Xuat();
+	double TinhLuong();
+	CNhanVien* TimKiem(string);
 };
 

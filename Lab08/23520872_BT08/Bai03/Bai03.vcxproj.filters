@@ -18,7 +18,7 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CDangMach.cpp">
+    <ClCompile Include="CMachDien.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="CMachNoiTiep.cpp">
@@ -30,12 +30,9 @@
     <ClCompile Include="CDienTro.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CMachDien.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CDangMach.h">
+    <ClInclude Include="CMachDien.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CMachNoiTiep.h">
@@ -45,9 +42,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CDienTro.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CMachDien.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

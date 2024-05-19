@@ -1,16 +1,15 @@
 #pragma once
-#include "CDangMach.h"
-#include "CMachNoiTiep.h"
-#include "CMachSongSong.h"
-#include "CDienTro.h"
+#include <iostream>
+#include <string>
+using namespace std;
 
 class CMachDien
 {
-private:
-	CDangMach* Mach;
+protected:
 public:
-	void Nhap();
-	void Xuat();
-	float TinhDienTroTuongDuong();
+	virtual void Nhap();
+	virtual void Xuat();
+	virtual float TinhDienTroTuongDuong();
 };
+
 

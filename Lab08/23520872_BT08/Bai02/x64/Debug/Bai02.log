@@ -1,2 +1,7 @@
-﻿  Source.cpp
+﻿  CNhanVien.cpp
+  CNhanVienQuanLy.cpp
+  CNhanVienSanXuat.cpp
+  CNhanVienVanPhong.cpp
+  Source.cpp
+  Generating Code...
   Bai02.vcxproj -> C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\x64\Debug\Bai02.exe

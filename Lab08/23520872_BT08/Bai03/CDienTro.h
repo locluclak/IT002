@@ -1,7 +1,7 @@
 #pragma once
-#include "CDangMach.h"
+#include "CMachDien.h"
 
-class CDienTro: public CDangMach
+class CDienTro: public CMachDien
 {
 private:
 	string MaSo;

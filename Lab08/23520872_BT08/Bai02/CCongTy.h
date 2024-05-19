@@ -1,10 +1,14 @@
 #pragma once
 #include "CNhanVien.h"
+#include "CNhanVienQuanLy.h"
+#include "CNhanVienSanXuat.h"
+#include "CNhanVienVanPhong.h"
 
-class CNhanVienQuanLy: public CNhanVien
+class CCongTy
 {
 private:
-	double HeSoChucVu, Thuong;
+	int n;
+	CNhanVien* ds[100];
 public:
 	void Nhap();
 	void Xuat();

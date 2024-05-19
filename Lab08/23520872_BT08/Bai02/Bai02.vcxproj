@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CCongTy.cpp" />
     <ClCompile Include="CNhanVien.cpp" />
     <ClCompile Include="CNhanVienQuanLy.cpp" />
     <ClCompile Include="CNhanVienSanXuat.cpp" />
@@ -134,6 +135,7 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CCongTy.h" />
     <ClInclude Include="CNhanVien.h" />
     <ClInclude Include="CNhanVienQuanLy.h" />
     <ClInclude Include="CNhanVienSanXuat.h" />

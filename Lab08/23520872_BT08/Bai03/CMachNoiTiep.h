@@ -1,11 +1,11 @@
 #pragma once
-#include "CDangMach.h"
+#include "CMachDien.h"
 
-class CMachNoiTiep: public CDangMach
+class CMachNoiTiep: public CMachDien
 {
 private:
 	int n;
-	CDangMach* ds[100];
+	CMachDien* ds[100];
 public:
 	void Nhap();
 	void Xuat();

@@ -30,6 +30,9 @@
     <ClCompile Include="CNhanVienVanPhong.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CCongTy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CNhanVien.h">
@@ -42,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CNhanVienVanPhong.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCongTy.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -20,7 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CDienTro.cpp" />
-    <ClCompile Include="CDangMach.cpp" />
     <ClCompile Include="CMachDien.cpp" />
     <ClCompile Include="CMachNoiTiep.cpp" />
     <ClCompile Include="CMachSongSong.cpp" />
@@ -28,7 +27,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CDienTro.h" />
-    <ClInclude Include="CDangMach.h" />
     <ClInclude Include="CMachDien.h" />
     <ClInclude Include="CMachNoiTiep.h" />
     <ClInclude Include="CMachSongSong.h" />
