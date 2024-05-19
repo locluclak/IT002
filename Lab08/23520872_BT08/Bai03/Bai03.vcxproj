@@ -18,6 +18,21 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CDienTro.cpp" />
+    <ClCompile Include="CDangMach.cpp" />
+    <ClCompile Include="CMachDien.cpp" />
+    <ClCompile Include="CMachNoiTiep.cpp" />
+    <ClCompile Include="CMachSongSong.cpp" />
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CDienTro.h" />
+    <ClInclude Include="CDangMach.h" />
+    <ClInclude Include="CMachDien.h" />
+    <ClInclude Include="CMachNoiTiep.h" />
+    <ClInclude Include="CMachSongSong.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

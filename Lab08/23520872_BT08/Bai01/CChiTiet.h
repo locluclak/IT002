@@ -12,5 +12,6 @@ public:
 	virtual void Xuat();
 	virtual float TinhGiaTien();
 	virtual CChiTiet* TimKiem(string);
+	virtual int DemChiTietDon();
 };
 

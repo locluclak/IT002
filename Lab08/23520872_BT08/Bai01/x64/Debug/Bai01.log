@@ -1,2 +1,8 @@
-﻿  CChiTietPhuc.cpp
-  Bai01.vcxproj -> C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\x64\Debug\Bai01.exe
+﻿  CChiTiet.cpp
+  CChiTietDon.cpp
+  CChiTietPhuc.cpp
+  CMay.cpp
+  Source.cpp
+  Generating Code...
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai01\Source.cpp(16,6): error C2065: 'p': undeclared identifier
+C:\MyPC\GitHub\thOOP\Lab08\23520872_BT08\Bai01\Source.cpp(17,3): error C2065: 'p': undeclared identifier

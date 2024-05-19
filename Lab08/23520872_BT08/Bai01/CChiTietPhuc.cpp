@@ -57,3 +57,11 @@ CChiTiet* CChiTietPhuc::TimKiem(string ms)
 	}
 	return nullptr;
 }
+
+int CChiTietPhuc::DemChiTietDon()
+{
+	int count = 0;
+	for (int i = 0; i < this->n; i++)
+		count += this->ds[i]->DemChiTietDon();
+	return count;
+}

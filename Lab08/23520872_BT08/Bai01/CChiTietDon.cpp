@@ -26,3 +26,8 @@ CChiTiet* CChiTietDon::TimKiem(string ms)
 		return this;
 	return nullptr;
 }
+
+int CChiTietDon::DemChiTietDon()
+{
+	return 1;
+}

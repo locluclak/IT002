@@ -15,3 +15,8 @@ CChiTiet* CChiTiet::TimKiem(string)
 {
 	return nullptr;
 }
+
+int CChiTiet::DemChiTietDon()
+{
+	return 0;
+}

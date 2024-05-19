@@ -10,5 +10,6 @@ public:
 	void Xuat();
 	float TinhGiaTien();
 	CChiTiet* TimKiem(string);
+	int DemChiTietDon();
 };
 
